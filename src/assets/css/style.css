@@ -1,0 +1,14 @@
+.v-btn {
+    text-transform: none !important;
+}
+
+.navContainer .v-btn--plain:not(.v-btn--active):not(.v-btn--loading):not(:focus):not(:hover) .v-btn__content {
+  color: #272727 !important;
+  opacity: 1 !important;
+}
+
+@media (min-width: 1904px) {
+  .container {
+    max-width:1185px;
+  }
+}

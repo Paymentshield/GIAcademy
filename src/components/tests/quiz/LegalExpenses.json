@@ -1,0 +1,15 @@
+{
+    "quiz": [
+        {
+            "id": 1,
+            "question": "Which insurers currently form our Home Insurance panel?",
+            "answers": {
+                "a": "AXA, LV=Broker, Prestige, RSA, UK General and Zurich",
+                "b": "Ageas, Allianz, Aviva, Towergate, L&G and LV=Broker",
+                "c": "AXA, Allianz, Aviva, Canopius, Towergate, L&G and RSA"
+            },
+            "rightAnswer": "a",
+            "class": ""
+        }
+    ]
+}

@@ -1,0 +1,401 @@
+{
+    "quiz": [
+        {
+            "id": 1,
+            "question": "Which insurers currently form our Home Insurance panel?",
+            "answers": {
+                "a": "AXA, LV=Broker, Prestige, RSA, UK General and Zurich",
+                "b": "Ageas, Allianz, Aviva, Towergate, L&G and LV=Broker",
+                "c": "AXA, Allianz, Aviva, Canopius, Towergate, L&G and RSA"
+            },
+            "rightAnswer": "a",
+            "userAnswer": "",
+            "class": ""
+        },
+        {
+            "id": 2,
+            "question": "What is the standard sum insured for Buildings Insurance?",
+            "answers": {
+                "a": "£400,000",
+                "b": "£500,000",
+                "c": "£600,000"
+            },
+            "rightAnswer": "b",
+            "userAnswer": "",
+            "class": "",
+            "learning": "The buildings sum insured covers the cost of rebuilding your client’s home. The market value of the home, including the land, is not an accurate sum insured for the replacement value of the building."
+        },
+        {
+            "id": 3,
+            "question": "What is the buildings sum insured for Home Insurance Plus?",
+            "answers": {
+                "a": "£750,000",
+                "b": "£1 million",
+                "c": "£1.5 million"
+            },
+            "rightAnswer": "b",
+            "userAnswer": "",
+            "class": "",
+            "learning": "Home Insurance Plus provides an increased sum insured amount, when your client requires more cover than that provided by our Home Insurance sum insured."
+        },
+        {
+            "id": 4,
+            "question": "What is the sum insured for Contents Insurance?",
+            "answers": {
+                "a": "£40,000",
+                "b": "£50,000",
+                "c": "£60,000"
+            },
+            "rightAnswer": "b",
+            "userAnswer": "",
+            "class": "",
+            "learning": ""
+        },
+        {
+            "id": 5,
+            "question": "What is the sum insured for contents cover?",
+            "answers": {
+                "a": "£60,000",
+                "b": "£75,000",
+                "c": "£90,000"
+            },
+            "rightAnswer": "b",
+            "userAnswer": "",
+            "class": "",
+            "learning": "The contents sum insured covers the cost of your client replacing their household contents as new"
+        },
+        {
+            "id": 6,
+            "question": "How much does the contents sum insured temporarily increase by for birthdays, weddings and religious festivals?",
+            "answers": {
+                "a": "10% of contents sum insured",
+                "b": "15% of contents sum insured",
+                "c": "20% of contents sum insured"
+            },
+            "rightAnswer": "a",
+            "userAnswer": "",
+            "class": "",
+            "learning": "Contents cover automatically increases for one month before and one month after wedding, civil ceremonies, family birthdays and religious festivals, to cover any gifts or additional food and drink your client may have in their property."
+        },
+        {
+            "id": 7,
+            "question": "How long is the quote validity for Home Insurance and Home Insurance Plus if your client is purchasing a new build property?",
+            "answers": {
+                "a": "90 Days",
+                "b": "180 Days",
+                "c": "150 Days"
+            },
+            "rightAnswer": "b",
+            "userAnswer": "",
+            "class": "",
+            "learning": ""
+        },
+        {
+            "id": 8,
+            "question": "True or False: We require a credit search to be conducted in order to provide a Home Insurance quote?",
+            "answers": {
+                "a": "True",
+                "b": "False"
+            },
+            "rightAnswer": "b",
+            "userAnswer": "",
+            "class": "",
+            "learning": ""
+        },
+        {
+            "id": 9,
+            "question": "How many years ‘no claims discount’ do we give to a first-time buyer?",
+            "answers": {
+                "a": "1 Year",
+                "b": "2 Years",
+                "c": "3 Years"
+            },
+            "rightAnswer": "b",
+            "userAnswer": "",
+            "class": "",
+            "learning": ""
+        },
+        {
+            "id": 10,
+            "question": "What is the maximum ‘no claims discount’ available?",
+            "answers": {
+                "a": "5 Years",
+                "b": "7 Years",
+                "c": "9 Years"
+            },
+            "rightAnswer": "c",
+            "userAnswer": "",
+            "class": "",
+            "learning": ""
+        },
+        {
+            "id": 11,
+            "question": "What is trace and access cover?",
+            "answers": {
+                "a": "Tracing and identifying the cause of a fire",
+                "b": "Removing and replacing any part of the buildings to find and repair the source of any water or oil escaping from tanks, pipes, equipment or fixed heating system in the buildings",
+                "c": "Looking for and finding the source of an electrical fault"
+            },
+            "rightAnswer": "b",
+            "userAnswer": "",
+            "class": "",
+            "learning": ""
+        },
+        {
+            "id": 12,
+            "question": "What is the maximum cover limit for trace and access cover?",
+            "answers": {
+                "a": "£1,000",
+                "b": "£3,000",
+                "c": "£5,000"
+            },
+            "rightAnswer": "c",
+            "userAnswer": "",
+            "class": "",
+            "learning": ""
+        },
+        {
+            "id": 13,
+            "question": "If an item is defined as a valuable to be covered within the home, up to what amount can it be covered without being specified?",
+            "answers": {
+                "a": "£1,000",
+                "b": "£2,500",
+                "c": "£5,000"
+            },
+            "rightAnswer": "b",
+            "userAnswer": "",
+            "class": "",
+            "learning": "Valuables are defined as items of precious metal or precious stones, jewellery, watches, works of art, computer equipment, portable electrical equipment other than televisions or radios."
+        },
+        {
+            "id": 14,
+            "question": "What does home emergency cover?",
+            "answers": {
+                "a": "Heating system failure",
+                "b": "Drain & toilet problems",
+                "c": "Burst pipes or water tanks",
+                "d": "Being locked out of your home",
+                "e": "Roof damage",
+                "f": "Loss of power supply",
+                "g": "Broken windows or doors",
+                "h": "Removal of pests",
+                "i": "All of the above"
+            },
+            "rightAnswer": "i",
+            "userAnswer": "",
+            "class": "",
+            "learning": "Home emergency cover provides round the clock assistance to arrange for an approved tradesman to visit your client’s home and carry out repairs should they experience a home emergency which leaves the home unsafe or uninhabitable."
+        },
+        {
+            "id": 15,
+            "question": "What is the maximum cover limit under home emergency cover?",
+            "answers": {
+                "a": "£250 per claim & £50 for overnight accommodation including VAT",
+                "b": "£500 per claim & £75 for overnight accommodation including VAT",
+                "c": "£1000 per claim & £100 for overnight accommodation including VAT"
+            },
+            "rightAnswer": "c",
+            "userAnswer": "",
+            "class": "",
+            "learning": ""
+        },
+        {
+            "id": 16,
+            "question": "Which 3 of the following are excluded under home emergency cover",
+            "answers": {
+                "a": "Septic tanks, guttering and down pipes",
+                "b": "Burst pipes or water tanks causing an uncontrollable leak in the home",
+                "c": "Heating system failure, resulting in no heat or hot water in the home",
+                "d": "Boiler or heating system that hasn’t been serviced in line with manufacturer’s recommendations",
+                "e": "External water supply pipes your client is not responsible for",
+                "f": "Broken windows or doors that make the home insecure or uninhabitable"
+            },
+            "rightAnswer": "c",
+            "userAnswer": "",
+            "class": "",
+            "learning": ""
+        },
+        {
+            "id": 17,
+            "question": "",
+            "answers": {
+                "a": "",
+                "b": "",
+                "c": ""
+            },
+            "rightAnswer": "",
+            "userAnswer": "",
+            "class": "",
+            "learning": ""
+        },
+        {
+            "id": 18,
+            "question": "",
+            "answers": {
+                "a": "",
+                "b": "",
+                "c": ""
+            },
+            "rightAnswer": "",
+            "userAnswer": "",
+            "class": "",
+            "learning": ""
+        },
+        {
+            "id": 19,
+            "question": "",
+            "answers": {
+                "a": "",
+                "b": "",
+                "c": ""
+            },
+            "rightAnswer": "",
+            "userAnswer": "",
+            "class": "",
+            "learning": ""
+        },
+        {
+            "id": 20,
+            "question": "",
+            "answers": {
+                "a": "",
+                "b": "",
+                "c": ""
+            },
+            "rightAnswer": "",
+            "userAnswer": "",
+            "class": "",
+            "learning": ""
+        },
+        {
+            "id": 21,
+            "question": "",
+            "answers": {
+                "a": "",
+                "b": "",
+                "c": ""
+            },
+            "rightAnswer": "",
+            "userAnswer": "",
+            "class": "",
+            "learning": ""
+        },
+        {
+            "id": 22,
+            "question": "",
+            "answers": {
+                "a": "",
+                "b": "",
+                "c": ""
+            },
+            "rightAnswer": "",
+            "userAnswer": "",
+            "class": "",
+            "learning": ""
+        },
+        {
+            "id": 23,
+            "question": "",
+            "answers": {
+                "a": "",
+                "b": "",
+                "c": ""
+            },
+            "rightAnswer": "",
+            "userAnswer": "",
+            "class": "",
+            "learning": ""
+        },
+        {
+            "id": 24,
+            "question": "",
+            "answers": {
+                "a": "",
+                "b": "",
+                "c": ""
+            },
+            "rightAnswer": "",
+            "userAnswer": "",
+            "class": "",
+            "learning": ""
+        },
+        {
+            "id": 25,
+            "question": "",
+            "answers": {
+                "a": "",
+                "b": "",
+                "c": ""
+            },
+            "rightAnswer": "",
+            "userAnswer": "",
+            "class": "",
+            "learning": ""
+        },
+        {
+            "id": 26,
+            "question": "",
+            "answers": {
+                "a": "",
+                "b": "",
+                "c": ""
+            },
+            "rightAnswer": "",
+            "userAnswer": "",
+            "class": "",
+            "learning": ""
+        },
+        {
+            "id": 27,
+            "question": "",
+            "answers": {
+                "a": "",
+                "b": "",
+                "c": ""
+            },
+            "rightAnswer": "",
+            "userAnswer": "",
+            "class": "",
+            "learning": ""
+        },
+        {
+            "id": 28,
+            "question": "",
+            "answers": {
+                "a": "",
+                "b": "",
+                "c": ""
+            },
+            "rightAnswer": "",
+            "userAnswer": "",
+            "class": "",
+            "learning": ""
+        },
+        {
+            "id": 29,
+            "question": "",
+            "answers": {
+                "a": "",
+                "b": "",
+                "c": ""
+            },
+            "rightAnswer": "",
+            "userAnswer": "",
+            "class": "",
+            "learning": ""
+        },
+        {
+            "id": 30,
+            "question": "",
+            "answers": {
+                "a": "",
+                "b": "",
+                "c": ""
+            },
+            "rightAnswer": "",
+            "userAnswer": "",
+            "class": "",
+            "learning": ""
+        }
+    ]
+}
