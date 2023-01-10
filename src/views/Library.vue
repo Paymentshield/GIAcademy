@@ -139,7 +139,7 @@ import Navigation from '@/components/home/Navigation';
                   },
                   "File": {
                       "id": 1,                  
-                      "url": "https://info.paymentshieldadvisers.co.uk/l/682253/2021-10-07/7vn7j/682253/1633619252Wt16P0rd/PSL_7_STEPS_REMO_EBOOK_02080_19082021.pdf",
+                      "url": "https://info.paymentshieldadvisers.co.uk/l/682253/2023-01-04/hybx8/682253/1672849290boPz9VsU/PSL_7_steps_remo_ebook_02413_20102022.pdf",
                   }
               },
               {
